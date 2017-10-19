@@ -1,3 +1,3 @@
 # NinaLowe_InternetPersona
-Interactive Webcomic
+Interactive Webcomic.
 Open by clicking the html file named index.
